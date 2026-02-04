@@ -13,14 +13,14 @@ Currently building projects in web applications, machine learning, and LLM-based
 
 ### 🤖 AI / Machine Learning
 - [Emotion Recognition System (Audio ML)](https://github.com/MoominHana/speech-emotion-recognition.git)
-- Forest Structure Classification
+- [Forest Structure Classification](https://github.com/byanka8/ForestStructureAnalysis)
 - [Image Classifier Dashboard](https://github.com/byanka8/ImageClassifierDashboard)
 
 ### 🌐 Full-Stack / Web
-- Bank Retail Loan Management System  
+- [Bank Retail Loan Management System](https://github.com/byanka8/LoanManagementApp)  
 
 ### 🧠 Algorithms & Visualization
-- Maze Pathfinder Bot
+- [Maze Pathfinder Bot](https://github.com/byanka8/MazePathfinderBot)
 
 ## What I’m Currently Learning
 - Prompt engineering for LLMs
