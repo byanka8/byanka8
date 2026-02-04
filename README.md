@@ -29,17 +29,9 @@ Currently building projects in web applications, machine learning, and LLM-based
 
 ## Connect with Me
 
-<a href="www.linkedin.com/in/bianca-sollesta" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20" style="vertical-align: middle;" />
-</a>
+<a><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="20" style="vertical-align: bottom;" /></a> : www.linkedin.com/in/bianca-sollesta
 &nbsp;  
-: www.linkedin.com/in/bianca-sollesta
-<br>
-<a href="bianclarizze06.sollesta@gmail.com">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="20" style="vertical-align: middle;" />
-</a>
-&nbsp;  
-: bianclarizze06.sollesta@gmail.com
+<a><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/gmail.svg" width="20" style="vertical-align: bottom;" /></a> : bianclarizze06.sollesta@gmail.com
 
 <!--
 **byanka8/byanka8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
